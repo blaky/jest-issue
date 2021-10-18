@@ -1,0 +1,17 @@
+{
+  "name": "jest-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.14.1",
+    "enzyme": "^3.11.0",
+    "jest": "^27.3.0",
+    "jest-enzyme": "^7.1.2"
+  }
+}
